@@ -1,4 +1,4 @@
-# Upwind Assignments
+#Upwind Assignments
 
 ## Description:
 This repository contains three assignments:  
