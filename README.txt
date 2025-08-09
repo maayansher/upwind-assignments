@@ -1,4 +1,4 @@
-# Upwind Assignments
+# Upwind Assignments #
 
 This repository contains three assignments including phishing detection, malware analysis in an isolated environment,  
 and SQL injection prevention.
