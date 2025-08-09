@@ -1,0 +1,19 @@
+From: "Amazon Customer Service" <support@amazon.com>
+Subject: Your recent order has been shipped
+
+Hello,
+
+Thank you for shopping with Amazon! Your order #112-1234567-9876543 has been shipped.
+
+You can track your package here:
+https://www.amazon.com/your-orders
+
+Estimated delivery date: August 15, 2025.
+
+If you have any questions, please visit our Help Center:
+https://www.amazon.com/help
+
+We appreciate your business!
+
+Sincerely,
+Amazon Customer Service

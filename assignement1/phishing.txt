@@ -1,0 +1,20 @@
+From: "PayPal Support" <service@paypal-security.xyz>
+Subject: Urgent - Verify Your Account Immediately
+
+Dear Customer,
+
+We have detected unusual activity in your account.
+To avoid suspension, please verify your account immediately.
+
+Click the secure link below to verify:
+http://paypal-support.xyz/login
+
+For your convenience, you can also use this shortened link:
+http://bit.ly/paypal-update
+
+If you fail to verify within 24 hours, your account will be permanently limited.
+
+Thank you for your immediate attention.
+
+Sincerely,
+PayPal Security Team
