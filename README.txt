@@ -1,24 +1,26 @@
-Upwind Assignments
+# Upwind Assignments
 
-This repository contains three assignments including phishing detection, malware analysis in an isolated environment,
+This repository contains three assignments including phishing detection, malware analysis in an isolated environment,  
 and SQL injection prevention.
 
 ---
 
-Assignment 1 – Phishing Email Detection:
+## Assignment 1 – Phishing Email Detection
 
 - Built a Python script that analyzes the text of an email and determines if it is potentially a phishing attempt.
 - Detection was based on:
-  1. Urgent Words – Detects common urgency phrases like "urgent", "immediately", "act now".
-  2. Suspicious IPs & URLs – Extracts and checks IPs/URLs against a trusted domain list.
-  3. Sender Legitimacy – Validates the sender’s domain to ensure it matches the claimed organization.
+  1. **Urgent Words** – Detects common urgency phrases like `"urgent"`, `"immediately"`, `"act now"`.
+  2. **Suspicious IPs & URLs** – Extracts and checks IPs/URLs against a trusted domain list.
+  3. **Sender Legitimacy** – Validates the sender’s domain to ensure it matches the claimed organization.
 
 - After running these checks, the script:
-  - Labels the email as "Phishing" or "Not Phishing".
+  - Labels the email as **"Phishing"** or **"Not Phishing"**.
   - Provides a short reason summary if phishing is detected.
 
-How to run:
+**How to run:**
+```bash
 python phishing_detector.py email.txt
+
 
 ---
 
