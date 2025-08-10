@@ -45,8 +45,8 @@ docker build -t malware-sandbox .
 ```
 ```bash
 #  Run the malware in an isolated container and capture behavior
-docker run --rm -v "${PWD}:/app" malware-sandbox \
-  strace -f -o /app/trace.log python -u /app/malware.py
+docker run --rm -v "${PWD}:/app" malware-sandbox sh -c "strace -f -o /app/trace.log python -u /app/malware.py"
+
 ```
 
 ## Assignment 3 – SQL Injection Simulation and Prevention
