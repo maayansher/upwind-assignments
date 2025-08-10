@@ -91,7 +91,8 @@ python generate_report.py
 
     Try an SQL injection attack:  
     - **Username:** any value (e.g., test)  
-    - **Password:** `'1'='1`  
+    - **Password:** `' OR '1'='1
+`  
 
     → You will still see **"Login successful"** (vulnerability confirmed).  
 
