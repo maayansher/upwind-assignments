@@ -1,4 +1,4 @@
-<img width="1631" height="665" alt="image" src="https://github.com/user-attachments/assets/477d65c6-d700-4039-8595-67f0cd2a38e8" /># Upwind Assignments
+# Upwind Assignments
 
 ## Description:
 This repository contains three assignments:  
