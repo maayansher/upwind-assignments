@@ -1,4 +1,4 @@
-# Upwind Assignments
+<img width="1631" height="665" alt="image" src="https://github.com/user-attachments/assets/477d65c6-d700-4039-8595-67f0cd2a38e8" /># Upwind Assignments
 
 ## Description:
 This repository contains three assignments:  
@@ -48,6 +48,12 @@ docker build -t malware-sandbox .
 docker run --rm -v "${PWD}:/app" malware-sandbox sh -c "strace -f -o /app/trace.log python -u /app/malware.py"
 
 ```
+To generate report run:
+```bash
+python generate_report.py
+
+```
+
 
 ## Assignment 3 – SQL Injection Simulation and Prevention
 
