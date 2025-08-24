@@ -15,7 +15,7 @@ def login():
         conn = sqlite3.connect("users.db")
         cursor = conn.cursor()
 
-        # VULNERABLE query (we will fix this later)
+        # VULNERABLE query 
         query = f"SELECT * FROM users WHERE username = '{username}' AND password = '{password}'"
         print("DEBUG QUERY:", query)  # optional debug print
 
