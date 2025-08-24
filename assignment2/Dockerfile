@@ -10,5 +10,5 @@ RUN apt-get update && apt-get install -y \
 WORKDIR /app
 
 COPY malware.py malware.py
-
+COPY generate_report.py generate_report.py
 CMD ["python", "malware.py"]
